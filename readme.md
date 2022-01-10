@@ -3,4 +3,4 @@ machin learning tutorial
 
 link dataset housing.csv:
 
-https://github.com/biorabiei/PythonAdvenced-MachineLearning.git
+https://github.com/biorabiei/python-ml.git
